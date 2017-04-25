@@ -1,0 +1,24 @@
+{
+  "name": "bedrock-hydra-express-test",
+  "version": "0.0.1-0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "node --preserve-symlinks test.js test"
+  },
+  "dependencies": {
+    "async": "^2.3.0",
+    "bedrock": "^1.4.1",
+    "bedrock-did-client": "^1.0.0",
+    "bedrock-express": "^2.0.6",
+    "bedrock-identity": "^4.6.0",
+    "bedrock-key": "^3.1.4",
+    "bedrock-mongodb": "^3.2.3",
+    "bedrock-passport": "^3.2.1",
+    "bedrock-permission": "^2.4.3",
+    "bedrock-server": "^2.2.0",
+    "bedrock-test": "^1.2.0",
+    "request": "^2.81.0",
+    "uuid": "^3.0.1"
+  }
+}

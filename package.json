@@ -1,0 +1,27 @@
+{
+  "name": "bedrock-hydra-express",
+  "version": "0.0.1-0",
+  "description": "A bedrock module that generates express APIs",
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/bedrock-hydra-express.git"
+  },
+  "author": {
+    "name": "Digital Bazaar, Inc.",
+    "email": "support@digitalbazaar.com",
+    "url": "http://digitalbazaar.com"
+  },
+  "bugs": {
+    "url": "https://github.com/digitalbazaar/bedrock-hydra-express/issues"
+  },
+  "homepage": "https://github.com/digitalbazaar/bedrock-hydra-express",
+  "dependencies": {
+    "async": "^2.3.0"
+  },
+  "peerDependencies": {
+    "bedrock": "^1.4.0",
+    "bedrock-express": "^2.0.6",
+    "bedrock-passport": "^3.2.1"
+  }
+}
