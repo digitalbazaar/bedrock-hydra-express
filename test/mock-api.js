@@ -135,8 +135,8 @@ api.docs = {
         {
           "@type": "hydra:SupportedProperty",
           "hydra:property": {
-            "@id": '/review',
-            "@type": 'hydra:Link',
+            "@id": "/review",
+            "@type": "hydra:Link",
             "domain": "/book",
             "range": "http://schema.org/ReviewCollection",
             "rdfs:label": "The collection of Review resources",
